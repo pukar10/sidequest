@@ -1,4 +1,4 @@
-# kill-time
+# sidequest
 
 This repo contains a React + Vite frontend in `web/`.
 
